@@ -1,0 +1,3 @@
+Stwórz licznik bazujący na przyciskach "+" i "-", 
+który będzie zmieniał wartość prezentowaną na liczniku. 
+Użyj do tego stanów i obsługi zdarzeń naciskania przycisku.
